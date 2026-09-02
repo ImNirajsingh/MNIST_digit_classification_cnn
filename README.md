@@ -2637,6 +2637,4 @@ This project provides a strong foundation for moving from conventional CNN-based
 ✅ Prediction Visualized
 ```
 
-**Next step:** Extend this CNN into an actual **Spiking Neural Network (SNN)** and compare CNN vs SNN on MNIST in terms of accuracy, parameters, inference behavior, and computational efficiency.
-
 Niraj Singh
